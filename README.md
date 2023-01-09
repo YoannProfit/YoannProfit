@@ -21,6 +21,9 @@ I have been always ❤️ coding, especially with C++.
 
 <br />
 
+> Text that is a quote
+
+<br />
 
 ```cpp
 	class YoannProfit
