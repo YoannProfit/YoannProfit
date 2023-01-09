@@ -3,7 +3,7 @@
 ### More about me :
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <img style="border: 3px red;" src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" />
 </div>
 
 <!--
