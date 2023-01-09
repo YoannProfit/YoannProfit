@@ -1,4 +1,4 @@
-# 👋 ! Hey there, I'm Yoann Profit !
+# Hey there, I'm Yoann Profit ! 👋
 
 ## Here's my computer story :
 
