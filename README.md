@@ -9,7 +9,7 @@
 
 
 
-I ❤️ codingn, especially with C++ <img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="220" />
+I ❤️ codingn, especially with C++ <img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" />
 
 ```cpp
 	class YoannProfit
