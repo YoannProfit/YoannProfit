@@ -19,6 +19,8 @@ I have been always ❤️ coding, especially with C++.
 	<img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" /> 
 </div> 
 
+<br />
+
 
 ```cpp
 	class YoannProfit
