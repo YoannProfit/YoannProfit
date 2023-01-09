@@ -44,21 +44,10 @@ I have been always ❤️ coding, especially with C++.
 	};
 ```
 
-<div style="background-color: rgb(150, 50, 50);">
-
-``python
-print("Yo!")
-``
-
+<div style="background-color: rgb(150, 50, 255);">
+	
 </div>
 
-
-
-<div id="header" align="center">
-  <kbd> 
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" />
-  </kbd>
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320" />
@@ -114,3 +103,11 @@ print("Yo!")
 ---
 
 [![Yoann Profit Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannProfit&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<div id="header" align="center">
+  <kbd> 
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" />
+  </kbd>
+</div>
