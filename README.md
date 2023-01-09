@@ -27,7 +27,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 	class YoannProfit
 	{
 	public:
-		YoannProfit(const std::string& sName) : m_sName("Yoann Profit") {}
+		YoannProfit(const std::string& sName) : m_sName("Yoann Profit | " + sName) {}
 		virtual ~YoannProfit() {}
 
 		void LoadResume(const std::string& sCVFilePathName) = 0;
