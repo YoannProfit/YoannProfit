@@ -1,6 +1,6 @@
 # 👋 ! Hey there, I'm Yoann Profit !
 
-## Here's my story :
+## Here's my computer story :
 
 
 <div id="header" align="left">
