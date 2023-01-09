@@ -80,6 +80,7 @@ Some source codes that I'm interested with and that I love to read and read agai
 - 📫 How to reach me: e-mail and PM.
 - ❤️ Love for science
 - :family: Living in France
+- :watch: Coding since 2012 with 10+ years of experience in personal projects software or graphics modules.
 - 😄 Dream : Joining a 
 - ⚡ Fun fact: ...
 - 🎧 I really like music (Heavy-Metal & Goa Psy Trance)
