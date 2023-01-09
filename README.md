@@ -30,7 +30,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 			YoannProfit(const std::string& sName) : m_sName("Yoann Profit") {}
 			virtual ~YoannProfit() {}
 
-			void LoadResume(const std::string& sCVName) = 0;
+			void LoadResume(const std::string& sCVFilePathName) = 0;
 
 			bool DoLoveCoding() const { return true; }
 
