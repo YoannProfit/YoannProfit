@@ -56,7 +56,7 @@ print("Yo!")
 
 ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me !
 
 
 <!--
