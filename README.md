@@ -72,7 +72,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 - 🌱 I’m currently learning DirectX 12 GPU memory handling.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about DirectX initialization, C++ good ways of coding, Berkeley Sockets setup and altough soft game programming
+- 💬 Ask me about DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little game programming.
 - 📫 How to reach me: e-mail and PM.
 - ❤️ Love for science
 - :family: Living in France
