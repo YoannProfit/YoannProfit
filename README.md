@@ -1,6 +1,4 @@
-# 👋 ! Hey there, I'm Yoann Profit !
-
-<br />
+# 👋 ! Hey there, I'm Yoann Profit ! <br />
 
 ### Here's my story :
 
