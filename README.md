@@ -115,5 +115,5 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
-![Blender 3D]({[BadgeURLHere](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
-)})
+![Blender 3D](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
+)
