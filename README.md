@@ -75,7 +75,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 - 📫 How to reach me : E-mail or Private Message.
 - ❤️ Love for science.
 - :family: Living in France.
-- :watch: Coding since 2012, with 10+ years of experience in personal projects software or graphics modules.
+- :watch: Coding since 2012, with 10+ years of experience in personal projects software or 3D graphics modules.
 - 😄 Dream of One Day : Joining a video game company software.
 - 🎧 I really like music (Heavy-Metal & Goa Psy Trance).
 - 📝 Checkout my resume or [CV](http://www.la-porte-des-etoiles.net/CV/CV%20-%20Yoann%20Profit%20-%202023.pdf).
