@@ -32,7 +32,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 
 			void LoadResume(const std::string& sCVName) = 0;
 
-			bool LoveCoding() const { return true; }
+			bool DoLoveCoding() const { return true; }
 
 			const char* GetPersonnalWebSite_URLt() cons { return "http://www.la-porte-des-etoiles.net/"; }
 
