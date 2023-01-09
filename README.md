@@ -102,4 +102,4 @@ print("Yo!")
 
 ---
 
-[![Yoann Profit Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannProfit)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoann Profit Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannProfit&border_color=4c71f2)](https://github.com/anuraghazra/github-readme-stats)
