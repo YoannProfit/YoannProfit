@@ -11,7 +11,9 @@
 
 
 
-I ❤️ codingn, especially with C++ 
+I have been always ❤️ coding, especially with C++.
+
+<br />
 
 <div id="header" align="center">
 	<img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" /> 
