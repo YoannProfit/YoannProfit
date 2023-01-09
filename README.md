@@ -14,6 +14,8 @@
 </div>
 
 
+I ❤️ coding !
+
 ```cpp
 	class YoannProfit
 	{
