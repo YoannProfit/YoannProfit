@@ -15,22 +15,25 @@
 
 
 ```cpp
-# The Greeter class
-class Greeter
-  def initialize(name)
-    @name = name.capitalize
-  end
+	class Parameter
+	{
+		public:
+			Parameter(const std::string& sName);
+			virtual ~Parameter();
 
-  def salute
-    puts "Hello #{@name}!"
-  end
-end
+			// Met un argument du paramètre
+			void PushArgument(const std::string& sArgument);
+			// Récupère le nom du paramètre
+			const std::string& GetName() const;
+			// Récupère un argument
+			const char* GetArgument(uint32 iArgumentNumber) const;
+			// Retourne le nombre d'argument
+			uint32 GetArgumentCount() const;
 
-# Create a new object
-g = Greeter.new("world")
-
-# Output "Hello World!"
-g.salute
+		private:
+			std::string m_sName;
+			std::vector<std::string> m_vArguments;
+	};
 ```
 
 <!--
