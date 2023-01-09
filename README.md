@@ -80,6 +80,8 @@ I have been always ❤️ coding, especially with C++.
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<br />
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
