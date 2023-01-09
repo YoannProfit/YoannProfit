@@ -9,7 +9,7 @@
 
 <br />
 
-I have been always ❤️ coding, especially with C++.
+I have been always ❤️ coding, especially with my favorite computer programming language : the C++.
 
 <br />
 
