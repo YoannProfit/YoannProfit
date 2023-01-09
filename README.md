@@ -74,10 +74,10 @@ Some source codes and projects that I'm interested with and that I love to read 
 - 🤔 I’m looking for help with water caustics rendering with Navier-Stokes simulation.
 - 💬 Ask me about DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little about game programming.
 - 📫 How to reach me : E-mail or Private Message.
-- ❤️ Love for science
-- :family: Living in France
+- ❤️ Love for science.
+- :family: Living in France.
 - :watch: Coding since 2012, with 10+ years of experience in personal projects software or graphics modules.
-- 😄 Dream of One Day : Joining a game 
+- 😄 Dream of One Day : Joining a video game company software.
 - ⚡ Fun fact: ...
 - 🎧 I really like music (Heavy-Metal & Goa Psy Trance).
 - 📝 Checkout my resume or [CV](http://www.la-porte-des-etoiles.net/CV/CV%20-%20Yoann%20Profit%20-%202023.pdf).
