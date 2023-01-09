@@ -1,5 +1,4 @@
-### Hey there 👋, I'm Yoann Profit ! <span id="header" style="top: 20px;"> <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="70" /></span>
-
+### Hey there 👋, I'm Yoann Profit !
 
 ### More about me :
 
@@ -8,11 +7,6 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" />
 </div>
 
-<div id="header" align="left">
-  <kbd> 
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="150" />
-  </kbd>
-</div>
 
 
 I ❤️ coding !
@@ -38,6 +32,13 @@ I ❤️ coding !
 			std::vector<std::string> m_vArguments;
 	};
 ```
+
+<div id="header" align="center">
+  <kbd> 
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" />
+  </kbd>
+</div>
+
 
 <!--
 **YoannProfit/YoannProfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
