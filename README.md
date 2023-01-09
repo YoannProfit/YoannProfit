@@ -77,9 +77,9 @@ Some source codes and projects that I'm interested with and that I love to read 
 - ❤️ Love for science
 - :family: Living in France
 - :watch: Coding since 2012 with 10+ years of experience in personal projects software or graphics modules.
-- 😄 Dream : Joining a 
+- 😄 Dream of One Day : Joining a game 
 - ⚡ Fun fact: ...
-- 🎧 I really like music (Heavy-Metal & Goa Psy Trance)
+- 🎧 I really like music (Heavy-Metal & Goa Psy Trance).
 - 📝 Checkout my resume or [CV](http://www.la-porte-des-etoiles.net/CV/CV%20-%20Yoann%20Profit%20-%202023.pdf).
 
 ---
