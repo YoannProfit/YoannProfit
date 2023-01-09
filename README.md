@@ -11,7 +11,7 @@
 
 <div id="header" align="left">
   <kbd> 
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="150" />
   </kbd>
 </div>
 
