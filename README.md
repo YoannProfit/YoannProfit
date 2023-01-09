@@ -21,7 +21,7 @@ I have been always ❤️ coding, especially with C++.
 
 <br />
 
-> Text that is a quote
+> My C++ Hello World !
 
 <br />
 
