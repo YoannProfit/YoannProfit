@@ -50,7 +50,7 @@ I have been always ❤️ coding, especially with C++.
 Some source codes that I'm interested with :
 
 - [Irrlicht 3D](https://irrlicht.sourceforge.io)
-- [Ogre 3D](https://www.ogre3d.org) | <img src="https://fr.m.wikipedia.org/wiki/Fichier:Ogre3d-logo.svg" title="Ogre 3D" alt="Ogre 3D" width="60" height="60" />
+- [Ogre 3D](https://www.ogre3d.org) | <img src="http://www.ogre3d.org/downloads/logo.svg" title="Ogre 3D" alt="Ogre 3D" width="60" height="60" />
 
 
 
