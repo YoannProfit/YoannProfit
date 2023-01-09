@@ -9,12 +9,7 @@
 
 
 
-I ❤️ codingn, especially with C++ 
-
-<span id="header" align="center">
-  <img src="
-http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="220" />
-</span>
+I ❤️ codingn, especially with C++ <img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="220" />
 
 ```cpp
 	class YoannProfit
