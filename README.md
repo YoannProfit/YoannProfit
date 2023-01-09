@@ -70,8 +70,8 @@ Some source codes and projects that I'm interested with and that I love to read 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - 🔭 I’m currently working on a personnal 3D Game Engine with DirectX 10, 11 and 12.
 - 🌱 I’m currently learning DirectX 12 GPU memory handling.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on graphics development.
+- 🤔 I’m looking for help with water caustics rendering with Navier-Stokes simulation.
 - 💬 Ask me about DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little game programming.
 - 📫 How to reach me: e-mail and PM.
 - ❤️ Love for science
