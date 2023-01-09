@@ -66,7 +66,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 
 - :telescope: I’m looking for an IT job as a Software Developer or as a QA Engineer.
 - :seedling: Exploring Technical Content Reading.
-- :zap: In my free time : I'm reading or writing codes. I'm also playing guitar when I got the time.
+- :zap: In my free time : I'm reading or writing codes. I'm also playing electric guitar when I got the time.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - 🔭 I’m currently working on a personal 3D Game Engine with DirectX 10, 11 and 12.
 - 🌱 I’m currently learning DirectX 12 GPU memory handling.
