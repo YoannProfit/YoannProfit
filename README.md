@@ -4,9 +4,7 @@
 
 
 <div id="header" align="center">
-  <kbd> 
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100" />
-  </kbd>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="220" />
 </div>
 
 <div id="header" align="left">
