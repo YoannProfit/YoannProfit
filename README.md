@@ -72,7 +72,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 - 🌱 I’m currently learning DirectX 12 GPU memory handling.
 - 👯 I’m looking to collaborate on graphics development.
 - 🤔 I’m looking for help with water caustics rendering with Navier-Stokes simulation.
-- 💬 Ask me about DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little about game programming.
+- 💬 Ask me about : DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little about game programming.
 - 📫 How to reach me : E-mail or Private Message.
 - ❤️ Love for science.
 - :family: Living in France.
