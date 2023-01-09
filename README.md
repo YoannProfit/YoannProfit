@@ -47,7 +47,7 @@ I have been always ❤️ coding, especially with C++.
 
 ---
 
-Some source codes that I'm interested with and love to read and read again :
+Some source codes that I'm interested with and that I love to read and read again :
 
 - :rose: [Irrlicht 3D](https://irrlicht.sourceforge.io)
 - :gem: [Ogre 3D](https://www.ogre3d.org)
