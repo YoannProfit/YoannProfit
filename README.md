@@ -47,7 +47,7 @@ I have been always ❤️ coding, especially with C++.
 
 ---
 
-<div style="color: red;">
+<div color="red">
 	azeazeae
 </div>
 
