@@ -112,7 +112,7 @@ I have been always ❤️ coding, especially with C++.
 
 <br />
 
-Repositories Stats :
+Total Repositories Stats :
 
 [![Yoann Profit Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannProfit&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
