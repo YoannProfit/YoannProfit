@@ -115,6 +115,8 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
-Other low but still valuable skills !
+Others not so great but still valuable skills !
 
 ![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
