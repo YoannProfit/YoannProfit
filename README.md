@@ -27,21 +27,18 @@ I have been always ❤️ coding, especially with C++.
 	class YoannProfit
 	{
 		public:
-			YoannProfit(const std::string& sName);
-			virtual ~YoannProfit();
+			YoannProfit(const std::string& sName) : m_sName("Yoann Profit") {}
+			virtual ~YoannProfit() {}
 
-			// Met un argument du paramètre
-			void PushArgument(const std::string& sArgument);
-			// Récupère le nom du paramètre
-			const std::string& GetName() const;
-			// Récupère un argument
-			const char* GetArgument(uint32 iArgumentNumber) const;
-			// Retourne le nombre d'argument
-			uint32 GetArgumentCount() const;
+			void LoadResume(const std::string& sCVName);
+
+			bool LoveCoding() const { return true; }
+
+			const char* GetPersonnalWebSite_URLt() cons { return "http://www.la-porte-des-etoiles.net/"; }
 
 		private:
 			std::string m_sName;
-			std::vector<std::string> m_vArguments;
+			std::vector<std::string> m_vSkills;
 	};
 ```
 
