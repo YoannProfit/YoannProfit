@@ -76,7 +76,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 - 📫 How to reach me: e-mail and PM.
 - ❤️ Love for science
 - :family: Living in France
-- :watch: Coding since 2012 with 10+ years of experience in personal projects software or graphics modules.
+- :watch: Coding since 2012, with 10+ years of experience in personal projects software or graphics modules.
 - 😄 Dream of One Day : Joining a game 
 - ⚡ Fun fact: ...
 - 🎧 I really like music (Heavy-Metal & Goa Psy Trance).
