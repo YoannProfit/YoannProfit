@@ -12,8 +12,10 @@
 I ❤️ codingn, especially with C++ 
 
 <div id="header" align="center">
-	<img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" /> : 
-</div> : 
+	<img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" /> 
+</div> 
+
+
 ```cpp
 	class YoannProfit
 	{
