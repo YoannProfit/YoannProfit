@@ -47,11 +47,6 @@ I have been always ❤️ coding, especially with C++.
 
 ---
 
-<div id="header" color="red">
-	azeazeae
-</div>
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320" />
 </div>
