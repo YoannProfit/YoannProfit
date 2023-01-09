@@ -26,19 +26,21 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 ```cpp
 	class YoannProfit
 	{
-		public:
-			YoannProfit(const std::string& sName) : m_sName("Yoann Profit") {}
-			virtual ~YoannProfit() {}
+	public:
+		YoannProfit(const std::string& sName) : m_sName("Yoann Profit") {}
+		virtual ~YoannProfit() {}
 
-			void LoadResume(const std::string& sCVFilePathName) = 0;
+		void LoadResume(const std::string& sCVFilePathName) = 0;
 
-			bool DoLoveCoding() const { return true; }
+		bool DoLoveCoding() const { return true; }
 
-			const char* GetPersonalWebSite_URL() cons { return "http://www.la-porte-des-etoiles.net"; }
+		const char* GetPersonalWebSite_URL() cons { return "http://www.la-porte-des-etoiles.net"; }
 
-		private:
-			std::string m_sName;
-			std::vector<std::string> m_vSkills;
+	private:
+		std::string m_sName;
+		
+		std::vector<std::string> m_vSkills;
+		std::vector<std::string> m_vInterests;
 	};
 ```
 
