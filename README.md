@@ -69,7 +69,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 - :zap: In my free time : I'm reading or writing codes. I'm also playing electric guitar when I got the time.
 - 🔭 I’m currently working : on a personal 3D Game Engine with all the stuff needed like Physics, Networking, etc... Using and supporting DirectX 10, 11 and 12.
 - 🌱 I’m currently learning : DirectX 12 GPU memory handling.
-- 👯 I’m looking to collaborate on graphics development.
+- 👯 I’m looking to collaborate on 3D graphics development.
 - 🤔 I’m looking for help with water caustics rendering with Navier-Stokes simulation.
 - 💬 Ask me about : DirectX initialization, C++ goods ways of coding, Berkeley Sockets setup and also soft and little about game programming.
 - 📫 How to reach me : E-mail or Private Message.
