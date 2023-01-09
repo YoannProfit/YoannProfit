@@ -130,7 +130,7 @@ Repositories Stats :
 
 <div id="header" align="center">
 
-	Other, not so great, but still valuable skills !
+	Other, not so great, but still valuable related skills !
 
 </div> 
 
