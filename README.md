@@ -114,7 +114,7 @@ I have been always ❤️ coding, especially with C++.
 
 <div id="header" align="center">
 
-	Other, not so great, but still valuable domain skills !
+	Other, not so great, but still valuable skills !
 
 </div> 
 
