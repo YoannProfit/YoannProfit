@@ -115,6 +115,8 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
+<br />
+
 <div id="header" align="center">
 
 	Other, not so great, but still valuable domain skills !
