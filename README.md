@@ -115,4 +115,6 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
+Other skills !
+
 ![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
