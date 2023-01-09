@@ -33,7 +33,7 @@ I ❤️ coding !
 	};
 ```
 
-<div style="background-color: rgb(50, 50, 50);">
+<div style="background-color: rgb(150, 50, 50);">
 
 ``python
 print("Yo!")
