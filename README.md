@@ -15,11 +15,11 @@
 
 
 ```cpp
-	class Parameter
+	class YoannProfit
 	{
 		public:
-			Parameter(const std::string& sName);
-			virtual ~Parameter();
+			YoannProfit(const std::string& sName);
+			virtual ~YoannProfit();
 
 			// Met un argument du paramètre
 			void PushArgument(const std::string& sArgument);
