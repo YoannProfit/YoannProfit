@@ -36,7 +36,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 
 		const char* GetPersonalWebSite_URL() cons { return "http://www.la-porte-des-etoiles.net"; }
 		
-		const char* GetGameDevPortfolio_URL() cons { return "[http://www.la-porte-des-etoiles.net](http://www.la-porte-des-etoiles.net/game-dev-cp/)"; }
+		const char* GetGameDevPortfolio_URL() cons { return "http://www.la-porte-des-etoiles.net/game-dev-cp/"; }
 				
 
 	private:
