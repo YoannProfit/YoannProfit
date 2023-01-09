@@ -65,7 +65,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 
 
 - :telescope: I’m looking for an IT job as a Software Developer or as a QA Engineer.
-- :seedling: Exploring Technical Content Reading.
+- :seedling: Exploring and reading Technical Content.
 - :zap: In my free time : I'm reading or writing codes. I'm also playing electric guitar when I got the time.
 - 🔭 I’m currently working : on a personal 3D Game Engine with all the stuff like Physics, Networking, etc... Using DirectX 10, 11 and 12.
 - 🌱 I’m currently learning : DirectX 12 GPU memory handling.
