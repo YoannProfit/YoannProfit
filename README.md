@@ -2,7 +2,7 @@
 
 --- 
 
-### More about me :
+### Here's my story :
 
 
 <div id="header" align="left">
