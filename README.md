@@ -3,7 +3,9 @@
 ### More about me :
 
 <div id="header" align="center">
-  <img style="border: 5px solid red;" src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" />
+  <kbd> 
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" />
+  </kbd>
 </div>
 
 <!--
