@@ -5,13 +5,13 @@
 
 <div id="header" align="center">
   <kbd> 
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100" />
   </kbd>
 </div>
 
 <div id="header" align="left">
   <kbd> 
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="120" />
   </kbd>
 </div>
 
