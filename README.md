@@ -115,5 +115,4 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
-[https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
-](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
