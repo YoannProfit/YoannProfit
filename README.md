@@ -132,7 +132,7 @@ Total Repositories Stats :
 
 <div id="header" align="center">
 
-	Others, not so great, but still valuable related skills !
+	Others, not so great, but still valuable related IT skills !
 
 </div> 
 
