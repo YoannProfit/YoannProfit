@@ -9,7 +9,7 @@
 
 
 
-I ❤️ coding !
+I ❤️ codingn, especially with C++  
 
 ```cpp
 	class YoannProfit
