@@ -64,7 +64,7 @@ Some source codes and projects that I'm interested with and that I love to read 
 ### :technologist: About Me !
 
 
-- :telescope: I’m looking for an IT job as a Software Developer or as QA Engineer.
+- :telescope: I’m looking for an IT job as a Software Developer or as a QA Engineer.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I'm reading or writing codes. I'm also playing guitar in my free times.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
