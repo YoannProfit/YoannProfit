@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there 👋, I'm Yoann Profit !
+
+### More about me :
+
 
 <!--
 **YoannProfit/YoannProfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
