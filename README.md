@@ -75,7 +75,7 @@ I have been always ❤️ coding, especially with C++.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🎧 I really like music (Heavy-Metal & Goa Psy Trance)
-- 📝 Checkout my resume here : [CV](http://www.la-porte-des-etoiles.net/CV/CV%20-%20Yoann%20Profit%20-%202023.pdf).
+- 📝 Checkout my resume [CV](http://www.la-porte-des-etoiles.net/CV/CV%20-%20Yoann%20Profit%20-%202023.pdf).
 
 ---
 
