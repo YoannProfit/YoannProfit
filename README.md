@@ -104,7 +104,7 @@ I have been always ❤️ coding, especially with C++.
 
 [![Yoann Profit Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoannProfit&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
 <div id="header" align="center">
   <kbd> 
