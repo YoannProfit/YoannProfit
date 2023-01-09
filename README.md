@@ -115,7 +115,11 @@ I have been always ❤️ coding, especially with C++.
   </kbd>
 </div>
 
-Other, not so great, but still valuable domain skills !
+<div id="header" align="center">
+
+	Other, not so great, but still valuable domain skills !
+
+</div> 
 
 ![Blender 3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
