@@ -2,9 +2,16 @@
 
 ### More about me :
 
+
 <div id="header" align="center">
   <kbd> 
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40" />
+  </kbd>
+</div>
+
+<div id="header" align="left">
+  <kbd> 
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="60" />
   </kbd>
 </div>
 
