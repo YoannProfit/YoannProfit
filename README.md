@@ -34,7 +34,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 
 			bool DoLoveCoding() const { return true; }
 
-			const char* GetPersonnalWebSite_URLt() cons { return "http://www.la-porte-des-etoiles.net/"; }
+			const char* GetPersonalWebSite_URL() cons { return "http://www.la-porte-des-etoiles.net"; }
 
 		private:
 			std::string m_sName;
