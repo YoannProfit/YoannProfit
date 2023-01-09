@@ -1,4 +1,5 @@
-### Hey there 👋, I'm Yoann Profit !
+### Hey there 👋, I'm Yoann Profit !  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="150" />
+
 
 ### More about me :
 
