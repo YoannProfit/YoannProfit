@@ -1,7 +1,5 @@
 # 👋 ! Hey there, I'm Yoann Profit !
 
---- 
-
 ### Here's my story :
 
 
