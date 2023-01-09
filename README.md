@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Yoann Profit ! <span vertical-align="middle"> <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="70" /> </span>
+### Hey there 👋, I'm Yoann Profit ! <span style="display: flex; flex-direction: column;"> <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="70" /> </span>
 
 
 ### More about me :
