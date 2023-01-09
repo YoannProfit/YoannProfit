@@ -100,4 +100,4 @@ print("Yo!")
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Yoann Profit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoannProfit)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoann Profit's GitHub languages]([https://github-readme-stats.vercel.app/api?username=YoannProfit](Yoann Profit)
