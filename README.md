@@ -1,6 +1,6 @@
-# 👋 ! Hey there, I'm Yoann Profit ! <br />
+# 👋 ! Hey there, I'm Yoann Profit !
 
-### Here's my story :
+## Here's my story :
 
 
 <div id="header" align="left">
