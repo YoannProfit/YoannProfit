@@ -14,7 +14,7 @@ I have been always ❤️ coding, especially with my favorite computer programmi
 <br />
 
 <div id="header" align="center">
-	<img src="http://www.la-porte-des-etoiles.net/game-dev-cp/space++.png" width="80" /> 
+	<img src="http://www.la-porte-des-etoiles.net/common/images/C++%20Explora.png" width="80" /> 
 </div> 
 
 <br />
